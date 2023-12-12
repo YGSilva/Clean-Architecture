@@ -1,0 +1,157 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ArchMvc.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ArchMvc.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ArchMvc.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ArchMvc.Application.dll": {}
+        }
+      },
+      "ArchMvc.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ArchMvc.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ArchMvc.Domain.dll": {}
+        }
+      },
+      "ArchMvc.Infra.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ArchMvc.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ArchMvc.Infra.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ArchMvc.Infra.Data.dll": {}
+        }
+      },
+      "ArchMvc.Infra.Ioc/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ArchMvc.Application": "1.0.0",
+          "ArchMvc.Domain": "1.0.0",
+          "ArchMvc.Infra.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ArchMvc.Infra.Ioc.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ArchMvc.Infra.Ioc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArchMvc.Application/1.0.0": {
+      "type": "project",
+      "path": "../ArchMvc.Application/ArchMvc.Application.csproj",
+      "msbuildProject": "../ArchMvc.Application/ArchMvc.Application.csproj"
+    },
+    "ArchMvc.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ArchMvc.Domain/ArchMvc.Domain.csproj",
+      "msbuildProject": "../ArchMvc.Domain/ArchMvc.Domain.csproj"
+    },
+    "ArchMvc.Infra.Data/1.0.0": {
+      "type": "project",
+      "path": "../ArchMvc.Infra.Data/ArchMvc.Infra.Data.csproj",
+      "msbuildProject": "../ArchMvc.Infra.Data/ArchMvc.Infra.Data.csproj"
+    },
+    "ArchMvc.Infra.Ioc/1.0.0": {
+      "type": "project",
+      "path": "../ArchMvc.Infra.Ioc/ArchMvc.Infra.Ioc.csproj",
+      "msbuildProject": "../ArchMvc.Infra.Ioc/ArchMvc.Infra.Ioc.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ArchMvc.Infra.Ioc >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Yago\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\ws-clean-arch\\ArchMvc.WebUI\\ArchMvc.WebUI.csproj",
+      "projectName": "ArchMvc.WebUI",
+      "projectPath": "C:\\ws-clean-arch\\ArchMvc.WebUI\\ArchMvc.WebUI.csproj",
+      "packagesPath": "C:\\Users\\Yago\\.nuget\\packages\\",
+      "outputPath": "C:\\ws-clean-arch\\ArchMvc.WebUI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Yago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\ws-clean-arch\\ArchMvc.Infra.Ioc\\ArchMvc.Infra.Ioc.csproj": {
+              "projectPath": "C:\\ws-clean-arch\\ArchMvc.Infra.Ioc\\ArchMvc.Infra.Ioc.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
