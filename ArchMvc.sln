@@ -1,25 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30114.105
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchMvc.Application", "ArchMvc.Application\ArchMvc.Application.csproj", "{CB34F560-C802-4C09-BEC1-7EE08A92D18D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArchMvc.Application", "ArchMvc.Application\ArchMvc.Application.csproj", "{CB34F560-C802-4C09-BEC1-7EE08A92D18D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchMvc.Domain", "ArchMvc.Domain\ArchMvc.Domain.csproj", "{59D41789-A126-4B7B-A449-C7741D324B77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArchMvc.Domain", "ArchMvc.Domain\ArchMvc.Domain.csproj", "{59D41789-A126-4B7B-A449-C7741D324B77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchMvc.Infra.Data", "ArchMvc.Infra.Data\ArchMvc.Infra.Data.csproj", "{6F5BBA74-6935-4409-8B8B-D7CF4EA77ABB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArchMvc.Infra.Data", "ArchMvc.Infra.Data\ArchMvc.Infra.Data.csproj", "{6F5BBA74-6935-4409-8B8B-D7CF4EA77ABB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchMvc.Infra.Ioc", "ArchMvc.Infra.Ioc\ArchMvc.Infra.Ioc.csproj", "{4BE14DAA-73DC-4A65-9F89-2FAC3129E0CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArchMvc.Infra.Ioc", "ArchMvc.Infra.Ioc\ArchMvc.Infra.Ioc.csproj", "{4BE14DAA-73DC-4A65-9F89-2FAC3129E0CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchMvc.WebUI", "ArchMvc.WebUI\ArchMvc.WebUI.csproj", "{11A6FA81-4A66-484E-BE51-1D230DC0E5A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArchMvc.WebUI", "ArchMvc.WebUI\ArchMvc.WebUI.csproj", "{11A6FA81-4A66-484E-BE51-1D230DC0E5A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchMvc.Domain.Test", "ArchMvc.Domain.Test\ArchMvc.Domain.Test.csproj", "{E2A8A646-59EF-48E4-924B-ECBA7AE237C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{CB34F560-C802-4C09-BEC1-7EE08A92D18D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -42,5 +41,15 @@ Global
 		{11A6FA81-4A66-484E-BE51-1D230DC0E5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11A6FA81-4A66-484E-BE51-1D230DC0E5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11A6FA81-4A66-484E-BE51-1D230DC0E5A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2A8A646-59EF-48E4-924B-ECBA7AE237C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A8A646-59EF-48E4-924B-ECBA7AE237C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A8A646-59EF-48E4-924B-ECBA7AE237C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2A8A646-59EF-48E4-924B-ECBA7AE237C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CAAF823-A64A-4F43-9F79-21F3E868BD94}
 	EndGlobalSection
 EndGlobal

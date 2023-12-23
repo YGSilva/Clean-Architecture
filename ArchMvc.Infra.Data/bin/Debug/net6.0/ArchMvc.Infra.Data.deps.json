@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "ArchMvc.Infra.Data/1.0.0": {
+        "dependencies": {
+          "ArchMvc.Domain": "1.0.0"
+        },
         "runtime": {
           "ArchMvc.Infra.Data.dll": {}
+        }
+      },
+      "ArchMvc.Domain/1.0.0": {
+        "runtime": {
+          "ArchMvc.Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ArchMvc.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArchMvc.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

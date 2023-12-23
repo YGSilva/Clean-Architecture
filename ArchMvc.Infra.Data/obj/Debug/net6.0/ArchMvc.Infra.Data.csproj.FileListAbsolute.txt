@@ -10,3 +10,6 @@ C:\ws-clean-arch\ArchMvc.Infra.Data\obj\Debug\net6.0\ArchMvc.Infra.Data.dll
 C:\ws-clean-arch\ArchMvc.Infra.Data\obj\Debug\net6.0\refint\ArchMvc.Infra.Data.dll
 C:\ws-clean-arch\ArchMvc.Infra.Data\obj\Debug\net6.0\ArchMvc.Infra.Data.pdb
 C:\ws-clean-arch\ArchMvc.Infra.Data\obj\Debug\net6.0\ref\ArchMvc.Infra.Data.dll
+C:\ws-clean-arch\ArchMvc.Infra.Data\bin\Debug\net6.0\ArchMvc.Domain.dll
+C:\ws-clean-arch\ArchMvc.Infra.Data\bin\Debug\net6.0\ArchMvc.Domain.pdb
+C:\ws-clean-arch\ArchMvc.Infra.Data\obj\Debug\net6.0\ArchMvc.Infra.Data.csproj.CopyComplete

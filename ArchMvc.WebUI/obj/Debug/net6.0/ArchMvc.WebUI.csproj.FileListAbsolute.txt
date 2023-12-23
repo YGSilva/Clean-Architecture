@@ -24,3 +24,12 @@ C:\ws-clean-arch\ArchMvc.WebUI\obj\Debug\net6.0\refint\ArchMvc.WebUI.dll
 C:\ws-clean-arch\ArchMvc.WebUI\obj\Debug\net6.0\ArchMvc.WebUI.pdb
 C:\ws-clean-arch\ArchMvc.WebUI\obj\Debug\net6.0\ArchMvc.WebUI.genruntimeconfig.cache
 C:\ws-clean-arch\ArchMvc.WebUI\obj\Debug\net6.0\ref\ArchMvc.WebUI.dll
+C:\ws-clean-arch\ArchMvc.WebUI\bin\Debug\net6.0\ArchMvc.Application.dll
+C:\ws-clean-arch\ArchMvc.WebUI\bin\Debug\net6.0\ArchMvc.Domain.dll
+C:\ws-clean-arch\ArchMvc.WebUI\bin\Debug\net6.0\ArchMvc.Infra.Data.dll
+C:\ws-clean-arch\ArchMvc.WebUI\bin\Debug\net6.0\ArchMvc.Infra.Ioc.dll
+C:\ws-clean-arch\ArchMvc.WebUI\bin\Debug\net6.0\ArchMvc.Infra.Ioc.pdb
+C:\ws-clean-arch\ArchMvc.WebUI\bin\Debug\net6.0\ArchMvc.Application.pdb
+C:\ws-clean-arch\ArchMvc.WebUI\bin\Debug\net6.0\ArchMvc.Domain.pdb
+C:\ws-clean-arch\ArchMvc.WebUI\bin\Debug\net6.0\ArchMvc.Infra.Data.pdb
+C:\ws-clean-arch\ArchMvc.WebUI\obj\Debug\net6.0\ArchMvc.WebUI.csproj.CopyComplete

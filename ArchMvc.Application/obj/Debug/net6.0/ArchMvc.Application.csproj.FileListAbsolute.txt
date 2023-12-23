@@ -10,3 +10,6 @@ C:\ws-clean-arch\ArchMvc.Application\obj\Debug\net6.0\ArchMvc.Application.dll
 C:\ws-clean-arch\ArchMvc.Application\obj\Debug\net6.0\refint\ArchMvc.Application.dll
 C:\ws-clean-arch\ArchMvc.Application\obj\Debug\net6.0\ArchMvc.Application.pdb
 C:\ws-clean-arch\ArchMvc.Application\obj\Debug\net6.0\ref\ArchMvc.Application.dll
+C:\ws-clean-arch\ArchMvc.Application\bin\Debug\net6.0\ArchMvc.Domain.dll
+C:\ws-clean-arch\ArchMvc.Application\bin\Debug\net6.0\ArchMvc.Domain.pdb
+C:\ws-clean-arch\ArchMvc.Application\obj\Debug\net6.0\ArchMvc.Application.csproj.CopyComplete

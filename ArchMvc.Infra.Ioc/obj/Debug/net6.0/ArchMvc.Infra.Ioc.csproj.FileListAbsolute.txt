@@ -10,3 +10,10 @@ C:\ws-clean-arch\ArchMvc.Infra.Ioc\obj\Debug\net6.0\ArchMvc.Infra.Ioc.dll
 C:\ws-clean-arch\ArchMvc.Infra.Ioc\obj\Debug\net6.0\refint\ArchMvc.Infra.Ioc.dll
 C:\ws-clean-arch\ArchMvc.Infra.Ioc\obj\Debug\net6.0\ArchMvc.Infra.Ioc.pdb
 C:\ws-clean-arch\ArchMvc.Infra.Ioc\obj\Debug\net6.0\ref\ArchMvc.Infra.Ioc.dll
+C:\ws-clean-arch\ArchMvc.Infra.Ioc\bin\Debug\net6.0\ArchMvc.Application.dll
+C:\ws-clean-arch\ArchMvc.Infra.Ioc\bin\Debug\net6.0\ArchMvc.Domain.dll
+C:\ws-clean-arch\ArchMvc.Infra.Ioc\bin\Debug\net6.0\ArchMvc.Infra.Data.dll
+C:\ws-clean-arch\ArchMvc.Infra.Ioc\bin\Debug\net6.0\ArchMvc.Domain.pdb
+C:\ws-clean-arch\ArchMvc.Infra.Ioc\bin\Debug\net6.0\ArchMvc.Application.pdb
+C:\ws-clean-arch\ArchMvc.Infra.Ioc\bin\Debug\net6.0\ArchMvc.Infra.Data.pdb
+C:\ws-clean-arch\ArchMvc.Infra.Ioc\obj\Debug\net6.0\ArchMvc.Infra.Ioc.csproj.CopyComplete
