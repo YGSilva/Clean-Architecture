@@ -1,15 +1,15 @@
-
 using ArchMvc.Domain.Validation;
 
 namespace ArchMvc.Domain.Entities;
 
-public sealed class Category : Entity
+public sealed class Product : Entity
 { 
     public string Name { get; private set; }
+    public ICollection<Product> Products { get; private set; }
 
-    public Category(string name) => ValidateDomain(name);
+    public Product(string name) => ValidateDomain(name);
      
-    public Category(int id, string name)
+    public Product(int id, string name)
     {
         DomainExceptionValidation.When(id < 0, "Invalid Id value.");
 
@@ -21,8 +21,6 @@ public sealed class Category : Entity
     {
         ValidateDomain(name);
     }
-
-    public ICollection<Product> Products { get; private set; }
 
     private void ValidateDomain(string name)
     {

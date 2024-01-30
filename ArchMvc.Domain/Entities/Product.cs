@@ -10,6 +10,9 @@ public sealed class Product : Entity
     public int Stock { get; private set; }
     public string Image { get; private set; }
 
+    public int CategoryId { get; set; }
+    public Product Category { get; set; }
+
     public Product(string name, string description, decimal price, int stock, string image)
         => ValidateDomain(name, description, price, stock, image);
     
@@ -53,7 +56,4 @@ public sealed class Product : Entity
         Stock = stock;
         Image = image;
     }
-
-    public int CategoryId { get; set; }
-    public Category Category { get; set; }
 }

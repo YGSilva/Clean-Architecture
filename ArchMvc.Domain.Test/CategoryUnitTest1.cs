@@ -8,7 +8,7 @@ namespace ArchMvc.Domain.Test {
         [Fact(DisplayName = "Create Category With Valid State")]
         public void CreateCategory_WithValidParameters_ResultObjectValidState() 
         {
-            Action action = () => new Category(1, "Category Name");
+            Action action = () => new Product(1, "Category Name");
 
             action.Should()
                   .NotThrow<DomainExceptionValidation>();
