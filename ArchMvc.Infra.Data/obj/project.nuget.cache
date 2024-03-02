@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9bNG4BbckyYFuXm/Af8lSkp/kIPn8QV97sDm3F9MAfs0Xy8tW6DSa8fa27GdFfHwJhMUyY5piUBgURNBF6kt9Q==",
+  "dgSpecHash": "TWueEgB7EF3g4ClUW8kzsB1ajEZuKiliQ5HWjVbi1I008ZQR+9OFgg/f4AY0jEC2nHLeWbnXRIB3DTQUP88ZUQ==",
   "success": true,
-  "projectFilePath": "C:\\repos\\PESSOAL\\Clean-Architecture\\ArchMvc.Infra.Data\\ArchMvc.Infra.Data.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\yago.silva\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\yago.silva\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\yago.silva\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\yagom\\source\\repos\\YGSilva\\Clean-Architecture\\ArchMvc.Infra.Data\\ArchMvc.Infra.Data.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

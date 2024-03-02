@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\yago.silva\\.nuget\\packages\\": {}
+    "C:\\Users\\yagom\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\PESSOAL\\Clean-Architecture\\ArchMvc.Domain\\ArchMvc.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\yagom\\source\\repos\\YGSilva\\Clean-Architecture\\ArchMvc.Domain\\ArchMvc.Domain.csproj",
       "projectName": "ArchMvc.Domain",
-      "projectPath": "C:\\repos\\PESSOAL\\Clean-Architecture\\ArchMvc.Domain\\ArchMvc.Domain.csproj",
-      "packagesPath": "C:\\Users\\yago.silva\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\PESSOAL\\Clean-Architecture\\ArchMvc.Domain\\obj\\",
+      "projectPath": "C:\\Users\\yagom\\source\\repos\\YGSilva\\Clean-Architecture\\ArchMvc.Domain\\ArchMvc.Domain.csproj",
+      "packagesPath": "C:\\Users\\yagom\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yagom\\source\\repos\\YGSilva\\Clean-Architecture\\ArchMvc.Domain\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\yago.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\yagom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -40,9 +46,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "default"
       }
     },
     "frameworks": {
@@ -59,20 +62,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.25, 6.0.25]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.25, 6.0.25]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.25, 6.0.25]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
