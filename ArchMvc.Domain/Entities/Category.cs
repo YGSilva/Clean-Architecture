@@ -14,7 +14,7 @@ public sealed class Category : Entity
         DomainExceptionValidation.When(id < 0, "Invalid Id value.");
 
         Id = id;
-        Name = name;
+       ValidateDomain(name);
     }
 
     public void Update(string name)
@@ -27,7 +27,7 @@ public sealed class Category : Entity
         DomainExceptionValidation.When(string.IsNullOrEmpty(name), 
             "Invalid name. Name is required!");
 
-        DomainExceptionValidation.When(name.Length < 3, 
+        DomainExceptionValidation.When(name.Length < 3,
             "Invalid name. Too short. Minimun 3 characters!");
 
         Name = name;

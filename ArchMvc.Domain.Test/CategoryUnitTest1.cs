@@ -34,5 +34,21 @@ namespace ArchMvc.Domain.Test {
                   .WithMessage("Invalid name. Too short. Minimun 3 characters!");
         }
 
+        [Fact(DisplayName = "Create Category with name in blanck")]
+        public void CreateCategory_MissingNameValue_DomainExceptionRequiredName()
+        {
+            Action action = () => new Category(1, "");
+            action.Should()
+                  .Throw<DomainExceptionValidation>()
+                  .WithMessage("Invalid name. Name is required!");
+        }
+
+        [Fact]
+        public void CreateCategory_WithNullNameValue_DomainExceptionInvalidName()
+        {
+            Action action = () => new Category(1, null);
+            action.Should()
+                  .Throw<DomainExceptionValidation>();
+        }
     }
 }

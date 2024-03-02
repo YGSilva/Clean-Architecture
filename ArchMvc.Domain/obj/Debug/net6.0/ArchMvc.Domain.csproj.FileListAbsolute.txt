@@ -22,3 +22,15 @@ C:\repos\PESSOAL\Clean-Architecture\ArchMvc.Domain\obj\Debug\net6.0\ArchMvc.Doma
 C:\repos\PESSOAL\Clean-Architecture\ArchMvc.Domain\obj\Debug\net6.0\refint\ArchMvc.Domain.dll
 C:\repos\PESSOAL\Clean-Architecture\ArchMvc.Domain\obj\Debug\net6.0\ArchMvc.Domain.pdb
 C:\repos\PESSOAL\Clean-Architecture\ArchMvc.Domain\obj\Debug\net6.0\ref\ArchMvc.Domain.dll
+C:\Users\yagom\source\repos\YGSilva\Clean-Architecture\ArchMvc.Domain\bin\Debug\net6.0\ArchMvc.Domain.deps.json
+C:\Users\yagom\source\repos\YGSilva\Clean-Architecture\ArchMvc.Domain\bin\Debug\net6.0\ArchMvc.Domain.dll
+C:\Users\yagom\source\repos\YGSilva\Clean-Architecture\ArchMvc.Domain\bin\Debug\net6.0\ArchMvc.Domain.pdb
+C:\Users\yagom\source\repos\YGSilva\Clean-Architecture\ArchMvc.Domain\obj\Debug\net6.0\ArchMvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yagom\source\repos\YGSilva\Clean-Architecture\ArchMvc.Domain\obj\Debug\net6.0\ArchMvc.Domain.AssemblyInfoInputs.cache
+C:\Users\yagom\source\repos\YGSilva\Clean-Architecture\ArchMvc.Domain\obj\Debug\net6.0\ArchMvc.Domain.AssemblyInfo.cs
+C:\Users\yagom\source\repos\YGSilva\Clean-Architecture\ArchMvc.Domain\obj\Debug\net6.0\ArchMvc.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yagom\source\repos\YGSilva\Clean-Architecture\ArchMvc.Domain\obj\Debug\net6.0\ArchMvc.Domain.sourcelink.json
+C:\Users\yagom\source\repos\YGSilva\Clean-Architecture\ArchMvc.Domain\obj\Debug\net6.0\ArchMvc.Domain.dll
+C:\Users\yagom\source\repos\YGSilva\Clean-Architecture\ArchMvc.Domain\obj\Debug\net6.0\refint\ArchMvc.Domain.dll
+C:\Users\yagom\source\repos\YGSilva\Clean-Architecture\ArchMvc.Domain\obj\Debug\net6.0\ArchMvc.Domain.pdb
+C:\Users\yagom\source\repos\YGSilva\Clean-Architecture\ArchMvc.Domain\obj\Debug\net6.0\ref\ArchMvc.Domain.dll
