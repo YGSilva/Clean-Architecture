@@ -10,3 +10,15 @@ C:\ws-clean-arch\ArchMvc.Domain\obj\Debug\net6.0\ArchMvc.Domain.dll
 C:\ws-clean-arch\ArchMvc.Domain\obj\Debug\net6.0\refint\ArchMvc.Domain.dll
 C:\ws-clean-arch\ArchMvc.Domain\obj\Debug\net6.0\ArchMvc.Domain.pdb
 C:\ws-clean-arch\ArchMvc.Domain\obj\Debug\net6.0\ref\ArchMvc.Domain.dll
+C:\repos\PESSOAL\Clean-Architecture\ArchMvc.Domain\bin\Debug\net6.0\ArchMvc.Domain.deps.json
+C:\repos\PESSOAL\Clean-Architecture\ArchMvc.Domain\bin\Debug\net6.0\ArchMvc.Domain.dll
+C:\repos\PESSOAL\Clean-Architecture\ArchMvc.Domain\bin\Debug\net6.0\ArchMvc.Domain.pdb
+C:\repos\PESSOAL\Clean-Architecture\ArchMvc.Domain\obj\Debug\net6.0\ArchMvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\PESSOAL\Clean-Architecture\ArchMvc.Domain\obj\Debug\net6.0\ArchMvc.Domain.AssemblyInfoInputs.cache
+C:\repos\PESSOAL\Clean-Architecture\ArchMvc.Domain\obj\Debug\net6.0\ArchMvc.Domain.AssemblyInfo.cs
+C:\repos\PESSOAL\Clean-Architecture\ArchMvc.Domain\obj\Debug\net6.0\ArchMvc.Domain.csproj.CoreCompileInputs.cache
+C:\repos\PESSOAL\Clean-Architecture\ArchMvc.Domain\obj\Debug\net6.0\ArchMvc.Domain.sourcelink.json
+C:\repos\PESSOAL\Clean-Architecture\ArchMvc.Domain\obj\Debug\net6.0\ArchMvc.Domain.dll
+C:\repos\PESSOAL\Clean-Architecture\ArchMvc.Domain\obj\Debug\net6.0\refint\ArchMvc.Domain.dll
+C:\repos\PESSOAL\Clean-Architecture\ArchMvc.Domain\obj\Debug\net6.0\ArchMvc.Domain.pdb
+C:\repos\PESSOAL\Clean-Architecture\ArchMvc.Domain\obj\Debug\net6.0\ref\ArchMvc.Domain.dll

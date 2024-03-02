@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ArchMvc.Domain",
+    "\\ArchMvc.Domain\\Entities"
   ],
-  "SelectedNode": "\\ArchMvc.sln",
+  "SelectedNode": "\\ArchMvc.Domain\\Entities\\Product.cs",
   "PreviewInSolutionExplorer": false
 }
