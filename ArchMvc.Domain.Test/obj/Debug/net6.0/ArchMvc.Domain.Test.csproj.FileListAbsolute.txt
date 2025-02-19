@@ -205,7 +205,6 @@ C:\repos\PESSOAL\Clean-Architecture\ArchMvc.Domain.Test\obj\Debug\net6.0\ArchMvc
 C:\repos\PESSOAL\Clean-Architecture\ArchMvc.Domain.Test\obj\Debug\net6.0\ArchMvc.Domain.Test.AssemblyInfo.cs
 C:\repos\PESSOAL\Clean-Architecture\ArchMvc.Domain.Test\obj\Debug\net6.0\ArchMvc.Domain.Test.csproj.CoreCompileInputs.cache
 C:\repos\PESSOAL\Clean-Architecture\ArchMvc.Domain.Test\obj\Debug\net6.0\ArchMvc.Domain.Test.sourcelink.json
-C:\repos\PESSOAL\Clean-Architecture\ArchMvc.Domain.Test\obj\Debug\net6.0\ArchMvc.Domain.Test.csproj.CopyComplete
 C:\repos\PESSOAL\Clean-Architecture\ArchMvc.Domain.Test\obj\Debug\net6.0\ArchMvc.Domain.Test.dll
 C:\repos\PESSOAL\Clean-Architecture\ArchMvc.Domain.Test\obj\Debug\net6.0\refint\ArchMvc.Domain.Test.dll
 C:\repos\PESSOAL\Clean-Architecture\ArchMvc.Domain.Test\obj\Debug\net6.0\ArchMvc.Domain.Test.pdb
@@ -318,3 +317,4 @@ C:\Users\yagom\source\repos\YGSilva\Clean-Architecture\ArchMvc.Domain.Test\obj\D
 C:\Users\yagom\source\repos\YGSilva\Clean-Architecture\ArchMvc.Domain.Test\obj\Debug\net6.0\ArchMvc.Domain.Test.pdb
 C:\Users\yagom\source\repos\YGSilva\Clean-Architecture\ArchMvc.Domain.Test\obj\Debug\net6.0\ArchMvc.Domain.Test.genruntimeconfig.cache
 C:\Users\yagom\source\repos\YGSilva\Clean-Architecture\ArchMvc.Domain.Test\obj\Debug\net6.0\ref\ArchMvc.Domain.Test.dll
+C:\repos\PESSOAL\Clean-Architecture\ArchMvc.Domain.Test\obj\Debug\net6.0\ArchMvc..AEE99DB2.Up2Date

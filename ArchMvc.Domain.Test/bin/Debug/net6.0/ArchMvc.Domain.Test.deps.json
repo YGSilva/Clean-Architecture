@@ -1059,7 +1059,10 @@
       "xunit.runner.visualstudio/2.5.6": {},
       "ArchMvc.Domain/1.0.0": {
         "runtime": {
-          "ArchMvc.Domain.dll": {}
+          "ArchMvc.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

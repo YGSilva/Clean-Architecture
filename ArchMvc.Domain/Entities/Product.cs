@@ -50,7 +50,7 @@ public sealed class Product : Entity
         );
 
         DomainExceptionValidation.When(
-            name.Length < 2,
+            name.Length < 3,
             "Invalid name. Too short, minimum 3 characters."
         );
 
