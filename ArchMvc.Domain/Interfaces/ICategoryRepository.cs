@@ -1,6 +1,7 @@
 ﻿using ArchMvc.Domain.Entities;
 
 namespace ArchMvc.Domain.Interfaces;
+
 public interface ICategoryRepository
 {
     Task<IEnumerable<Category>> GetCategoriesAsync();

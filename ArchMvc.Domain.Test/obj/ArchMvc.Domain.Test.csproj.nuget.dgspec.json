@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yagom\\source\\repos\\YGSilva\\Clean-Architecture\\ArchMvc.Domain.Test\\ArchMvc.Domain.Test.csproj": {}
+    "C:\\repos\\PESSOAL\\Clean-Architecture\\ArchMvc.Domain.Test\\ArchMvc.Domain.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yagom\\source\\repos\\YGSilva\\Clean-Architecture\\ArchMvc.Domain.Test\\ArchMvc.Domain.Test.csproj": {
+    "C:\\repos\\PESSOAL\\Clean-Architecture\\ArchMvc.Domain.Test\\ArchMvc.Domain.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yagom\\source\\repos\\YGSilva\\Clean-Architecture\\ArchMvc.Domain.Test\\ArchMvc.Domain.Test.csproj",
+        "projectUniqueName": "C:\\repos\\PESSOAL\\Clean-Architecture\\ArchMvc.Domain.Test\\ArchMvc.Domain.Test.csproj",
         "projectName": "ArchMvc.Domain.Test",
-        "projectPath": "C:\\Users\\yagom\\source\\repos\\YGSilva\\Clean-Architecture\\ArchMvc.Domain.Test\\ArchMvc.Domain.Test.csproj",
-        "packagesPath": "C:\\Users\\yagom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yagom\\source\\repos\\YGSilva\\Clean-Architecture\\ArchMvc.Domain.Test\\obj\\",
+        "projectPath": "C:\\repos\\PESSOAL\\Clean-Architecture\\ArchMvc.Domain.Test\\ArchMvc.Domain.Test.csproj",
+        "packagesPath": "C:\\Users\\yago.silva\\.nuget\\packages\\",
+        "outputPath": "C:\\repos\\PESSOAL\\Clean-Architecture\\ArchMvc.Domain.Test\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yagom\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\yago.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -33,8 +29,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\yagom\\source\\repos\\YGSilva\\Clean-Architecture\\ArchMvc.Domain\\ArchMvc.Domain.csproj": {
-                "projectPath": "C:\\Users\\yagom\\source\\repos\\YGSilva\\Clean-Architecture\\ArchMvc.Domain\\ArchMvc.Domain.csproj"
+              "C:\\repos\\PESSOAL\\Clean-Architecture\\ArchMvc.Domain\\ArchMvc.Domain.csproj": {
+                "projectPath": "C:\\repos\\PESSOAL\\Clean-Architecture\\ArchMvc.Domain\\ArchMvc.Domain.csproj"
               }
             }
           }
@@ -43,7 +39,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -85,30 +87,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\yagom\\source\\repos\\YGSilva\\Clean-Architecture\\ArchMvc.Domain\\ArchMvc.Domain.csproj": {
+    "C:\\repos\\PESSOAL\\Clean-Architecture\\ArchMvc.Domain\\ArchMvc.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yagom\\source\\repos\\YGSilva\\Clean-Architecture\\ArchMvc.Domain\\ArchMvc.Domain.csproj",
+        "projectUniqueName": "C:\\repos\\PESSOAL\\Clean-Architecture\\ArchMvc.Domain\\ArchMvc.Domain.csproj",
         "projectName": "ArchMvc.Domain",
-        "projectPath": "C:\\Users\\yagom\\source\\repos\\YGSilva\\Clean-Architecture\\ArchMvc.Domain\\ArchMvc.Domain.csproj",
-        "packagesPath": "C:\\Users\\yagom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yagom\\source\\repos\\YGSilva\\Clean-Architecture\\ArchMvc.Domain\\obj\\",
+        "projectPath": "C:\\repos\\PESSOAL\\Clean-Architecture\\ArchMvc.Domain\\ArchMvc.Domain.csproj",
+        "packagesPath": "C:\\Users\\yago.silva\\.nuget\\packages\\",
+        "outputPath": "C:\\repos\\PESSOAL\\Clean-Architecture\\ArchMvc.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yagom\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\yago.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -129,7 +141,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -145,12 +163,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

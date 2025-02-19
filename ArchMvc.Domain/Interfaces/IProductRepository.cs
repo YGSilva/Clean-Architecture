@@ -1,6 +1,7 @@
 ﻿using ArchMvc.Domain.Entities;
 
 namespace ArchMvc.Domain.Interfaces;
+
 public interface IProductRepository
 {
     Task<IEnumerable<Product>> GetProductCategorYAsync();

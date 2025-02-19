@@ -1,5 +1,3 @@
 ﻿namespace ArchMvc.Infra.Ioc;
-public class Class1
-{
 
-}
+public class Class1 { }
