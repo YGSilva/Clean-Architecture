@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArchMvc.Domain.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9097ef1ca8ad68cf63c304eaf07b641e3439d36d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c14bbe610ca90e74c48da078a8168fc92fc2285e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArchMvc.Domain.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArchMvc.Domain.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
