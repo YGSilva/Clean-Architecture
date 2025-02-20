@@ -11,5 +11,3 @@ build_property.RootNamespace = ArchMvc.Domain.Test
 build_property.ProjectDir = C:\repos\PESSOAL\Clean-Architecture\ArchMvc.Domain.Test\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
-build_property.EffectiveAnalysisLevelStyle = 6.0
-build_property.EnableCodeStyleSeverity = 

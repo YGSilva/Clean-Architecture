@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AV9ccKC8kEI=",
+  "dgSpecHash": "rYbI5UwirM0=",
   "success": true,
   "projectFilePath": "C:\\repos\\PESSOAL\\Clean-Architecture\\ArchMvc.Domain\\ArchMvc.Domain.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\yago.silva\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\yago.silva\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\yago.silva\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\ArchMvc.Domain",
-    "\\ArchMvc.Domain\\Entities"
+    "\\ArchMvc.Domain\\Entities",
+    "\\ArchMvc.Infra.Ioc"
   ],
-  "SelectedNode": "\\ArchMvc.Domain\\Entities\\Product.cs",
+  "SelectedNode": "\\ArchMvc.Domain\\Entities\\Category.cs",
   "PreviewInSolutionExplorer": false
 }

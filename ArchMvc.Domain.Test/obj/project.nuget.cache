@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TLmHANrrbn4=",
+  "dgSpecHash": "hRKJo8qx6ek=",
   "success": true,
   "projectFilePath": "C:\\repos\\PESSOAL\\Clean-Architecture\\ArchMvc.Domain.Test\\ArchMvc.Domain.Test.csproj",
   "expectedPackageFiles": [
@@ -95,10 +95,7 @@
     "C:\\Users\\yago.silva\\.nuget\\packages\\xunit.core\\2.6.4\\xunit.core.2.6.4.nupkg.sha512",
     "C:\\Users\\yago.silva\\.nuget\\packages\\xunit.extensibility.core\\2.6.4\\xunit.extensibility.core.2.6.4.nupkg.sha512",
     "C:\\Users\\yago.silva\\.nuget\\packages\\xunit.extensibility.execution\\2.6.4\\xunit.extensibility.execution.2.6.4.nupkg.sha512",
-    "C:\\Users\\yago.silva\\.nuget\\packages\\xunit.runner.visualstudio\\2.5.6\\xunit.runner.visualstudio.2.5.6.nupkg.sha512",
-    "C:\\Users\\yago.silva\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\yago.silva\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\yago.silva\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+    "C:\\Users\\yago.silva\\.nuget\\packages\\xunit.runner.visualstudio\\2.5.6\\xunit.runner.visualstudio.2.5.6.nupkg.sha512"
   ],
   "logs": []
 }
